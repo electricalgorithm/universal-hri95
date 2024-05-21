@@ -7,11 +7,11 @@ readme = { file = "README.md", content-type = "text/markdown" }
 license = { file = "LICENSE" }
 
 classifiers = [
-    "Development Status :: 4 - Beta",
+    "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Information Technology",
     "Intended Audience :: Other Audience",
     "Topic :: Scientific/Engineering :: Image Processing",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
 ]
@@ -36,9 +36,9 @@ include = ["harmonicsradius*"]
 hri95 = "harmonicsradius.hri95:main"
 
 [project.urls]
-Homepage = "https://github.com/electricalgorithm/harmonics-radius-index"
-Repository = "https://github.com/electricalgorithm/harmonics-radius-index.git"
-Issues = "https://github.com/electricalgorithm/harmonics-radius-index/issues"
+Homepage = "https://github.com/electricalgorithm/universal-hri95"
+Repository = "https://github.com/electricalgorithm/universal-hri95.git"
+Issues = "https://github.com/electricalgorithm/universal-hri95/issues"
 
 
 [tool.flake8]
