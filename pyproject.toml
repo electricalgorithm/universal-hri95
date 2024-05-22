@@ -2,7 +2,7 @@
 name = "harmonicsradius"
 description = "Harmonics' Radius Index (HRI95) is a full-reference image quality index based harmonic structures of the images for the comparison super-resolution models."
 keywords = ["super-resolution", "frequency-analysis", "image-quality-metrics"]
-version = "2024.5.21"
+version = "2024.5.22"
 readme = { file = "README.md", content-type = "text/markdown" }
 license = { file = "LICENSE" }
 
