@@ -2,14 +2,10 @@
 Tests for the harmonicsradius.utils module.
 """
 from unittest.mock import MagicMock, patch
-import numpy
 from harmonicsradius.utils import (
     read_image,
     show_image,
     save_image,
-    get_fft_of_image,
-    show_fft_image,
-    draw_square_from_center
 )
 
 
