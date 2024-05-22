@@ -18,6 +18,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install pylint flake8 Flake8-pyproject pytest pytest-coverage
+          pip install numpy opencv-python
       - name: Checking the code using Flake8
         run: |
           flake8 $(git ls-files '*.py')
