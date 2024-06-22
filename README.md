@@ -4,7 +4,15 @@ Harmonics Radius Index is a performance index for evaluating the quality of supe
 Please refer to the following paper for more details:
 
 ```
-The paper is under review. Please check back later.
+@article{Kocmarli2024,
+  title = {Performance Comparison Index for Image Super-Resolution Models},
+  url = {http://dx.doi.org/10.21203/rs.3.rs-4444865/v1},
+  DOI = {10.21203/rs.3.rs-4444865/v1},
+  publisher = {Research Square Platform LLC},
+  author = {Koçmarlı,  Gökhan and Esmer,  Gökhan Bora},
+  year = {2024},
+  month = may 
+}
 ```
 
 
