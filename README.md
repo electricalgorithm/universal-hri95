@@ -1,4 +1,6 @@
 # Harmonics Radius Index
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15487997.svg)](https://doi.org/10.5281/zenodo.15487997)
+
 Harmonics Radius Index is a performance index for evaluating the quality of super-resolution images. It is based on the harmonic mean of the radii of the circles that contain the same amount of energy in the Fourier domain of the true and predicted images.
 
 Please refer to the following paper for more details:
